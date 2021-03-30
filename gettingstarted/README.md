@@ -15,5 +15,5 @@ of the following examples:
 
 * [Egress Default Deny](06-frontend-egress-deny.md)
 * [Allow Egress Pod to Pod](07-frontend-egress-allow-to-backend.md)
-* [Allow Kuberenetes DNS](08-all-pods-egress-allow-dns.md)
+* [Allow Kubernetes DNS](08-all-pods-egress-allow-dns.md)
 
