@@ -14,8 +14,11 @@ spec:
   policyTypes:
   - Ingress
 ```
+[*View in the Policy Editor*](https://editor.cilium.io/?policy-url=https://raw.githubusercontent.com/networkpolicy/examples/master/gettingstarted/01-backend-ingress-deny.yaml)
 
-Create the above policy in your cluster:
+### Try this policy
+
+Create this policy in your [cluster running the demo app](00-setup.md):
 
 ``` bash
 kubectl create -f 01-backend-ingress-deny.yaml
